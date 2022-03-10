@@ -1,6 +1,6 @@
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?kim5981=anuraghazra&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) -->
 
-<img src="https://cdn.glitch.global/8216d946-9f05-45f2-9217-90955d0a703e/starry%20night%20twitter%20banner%20(4).png?v=1646284927966" alt="banner for kimberly rodriguez including her social links"/>
+<img src="https://cdn.glitch.global/34ab8fed-6a74-46e2-b154-c34551f4c029/github%20banner.png?v=1646948191796"/>
 
 <!-- <style>
 h1 {
