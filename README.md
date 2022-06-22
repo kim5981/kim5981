@@ -3,13 +3,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kim5981&label=Profile%20views&color=eac7e9&style=flat" alt="kim5981" /> </p>
 
-<!-- - 🔭 I’m currently working on [my portfolio](https://github.com/kim5981/portfolio) -->
+- 🔭 I’m currently working on [my portfolio](https://github.com/kim5981/portfolio)
 
 - 🌱 I’m currently learning **ReactNative**
 
-- 💬 Ask me about **Javascript, CSS, React, and web accessibility**
+- 💬 Ask me about **Javascript, CSS, React, and web accessibility** 
+
+- ☁ Quote to code by:
+<br>**‘That which we persist in doing becomes easier for us to do; not that the nature of the thing itself is changed, but that our power to do is increased.’ –Ralph Waldo Emerson**
 
 <h3 align="left">Connect with me:</h3>
+<a href="https://www.linkedin.com/in/kimberlyrodriguez95/">
+ <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</a>
 <p align="left">
 </p>
 
