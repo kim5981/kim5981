@@ -1,7 +1,9 @@
 <h1 align="center">Hello world, I'm Kimberly</h1>
 <h3 align="center">full-stack web developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kim5981&label=Profile%20views&color=eac7e9&style=flat" alt="kim5981" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=kim5981&label=Profile%20views&color=eac7e9&style=flat" alt="kim5981" /> </p> -->
+
+
 
 - 🔭 I’m currently working on [my portfolio](https://github.com/kim5981/portfolio)
 
