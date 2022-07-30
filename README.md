@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently working on [my portfolio](https://github.com/kim5981/portfolio)
+- 🔭 I’m currently working on a [Responsive Design Exercise](https://github.com/kim5981/responsive-design)
 
 - 🌱 I’m currently learning **ReactNative**
 
