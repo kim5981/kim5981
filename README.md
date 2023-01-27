@@ -5,9 +5,9 @@
 
 
 
-- 🔭 I’m currently working on a [Responsive Design Exercise](https://github.com/kim5981/responsive-design)
+- 🔭 I’m currently working on [Codecademy's Computer Science Course](https://www.codecademy.com/learn/paths/computer-science)
 
-- 🌱 I’m currently learning **ReactNative**
+- 🌱 I’m currently learning **Python**
 
 - 💬 Ask me about **Javascript, CSS, React, and web accessibility** 
 
