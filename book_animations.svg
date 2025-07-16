@@ -1,35 +1,27 @@
-<svg width="400" height="200" viewBox="0 0 400 200" xmlns="http://www.w3.org/2000/svg">
+
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="400" height="200" viewBox="0 0 400 200">
   <defs>
-    <!-- clip path creates "window" for scrolling text. -->
-    <!-- visible area for the moving text. -->
     <clipPath id="textClip">
       <rect x="100" y="90" width="200" height="30"/>
     </clipPath>
   </defs>
 
+
   <style>
-    /* Set the background color for the entire SVG, mimicking your original body background. */
-    svg {
-      background: #282c34;
-    }
-
-    /* General styling for all text elements within the SVG. */
- 
     text {
-      font-family: "Pixelify Sans", sans-serif;
-      font-size: 24px; /* Adjusted font size for readability within the 400x200 viewBox. */
-      fill: #a2d2ff; /* Default text color from your original CSS. */
-      text-anchor: middle; /* Horizontally centers the text at its x-coordinate. */
+      font-family: "Courier New", Courier, "Lucida Console", Monaco, Consolas, monospace, sans-serif; 
+      font-size: 24px;
+      fill: #a2d2ff; 
+      text-anchor: middle;
     }
 
-    /* colors for each "book" title */
+  
     .one { fill: #ffc8dd; }
     .two { fill: white; }
     .three { fill: #c678dd; }
     .four { fill: #ffafcc; }
 
-    /* Keyframe animation for the vertical scrolling effect. */
-    /* shifts the entire group of book titles upwards. */
+    
     @keyframes move {
 
       0% {
@@ -53,33 +45,15 @@
       }
     }
 
-    /* applies 'move' animation */
     .string-group {
-      animation: move 4s infinite; /* 4 seconds duration, infinite loop. */
+      animation: move 4s infinite; 
     }
 
-       <!-- font import for styling-->
-     <defs>
-       <style type="text/css">
-         <![CDATA[
-          <style>
-@import url('https://fonts.googleapis.com/css2?family=Pixelify+Sans:wght@400..700&display=swap');
-</style>
-         ]]>
-       </style>
-     </defs>
-   
-  
+  </style>
 
-  <!-- Main title "book recs..." -->
-
-  <text x="200" y="60" font-family="'Pixelify Sans', sans-serif;">book
-    <!-- The "recs..." portion -->
+  <text x="200" y="60">book
     <tspan fill="#cdb4db"> recs...</tspan>
   </text>
-
-  <!-- group containing all the scrolling book titles. -->
-  <!-- clipped by the "textClip" in <defs> section, for scrolling effect -->
   
   <g class="string-group" clip-path="url(#textClip)">
     <text x="200" y="105" class="book one">So I Lied</text>
